@@ -1,0 +1,136 @@
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+	color: #fff !important;
+    background: rgb(0, 168, 198);
+}
+
+.location {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.details  {
+    font-size: 20px;
+}
+
+.fair {
+    display: inline-block;
+    margin-left: 8px;
+    /* position: relative;
+    top: 5px; */
+}
+
+
+
+.full {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.weather-container{
+	height: 50px;
+	width: 130px;
+}
+
+.weather-icon{
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.top-25{
+    margin-top: 25px;
+}
+
+.temp{
+
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.icon {
+    background-position: 10px;
+    background-repeat: no-repeat;
+    height: 50px;
+}
+
+.icon-01d {
+    background-image: url('../images/icons/01d.png');
+}
+
+.icon-02d {
+    background-image: url('../images/icons/02d.png');
+}
+
+.icon-03d {
+    background-image: url('../images/icons/03d.png');
+}
+
+.icon-04d {
+    background-image: url('../images/icons/04d.png');
+}
+
+.icon-09d {
+    background-image: url('../images/icons/09d.png');
+}
+
+.icon-10d {
+    background-image: url('../images/icons/10d.png');
+}
+
+.icon-11d {
+    background-image: url('../images/icons/11d.png');
+}
+
+.icon-12d {
+    background-image: url('../images/icons/12d.png');
+}
+
+.icon-13d {
+    background-image: url('../images/icons/13d.png');
+}
+
+
+.icon-01n {
+    background-image: url('../images/icons/01n.png');
+}
+
+.icon-02n {
+    background-image: url('../images/icons/02n.png');
+}
+
+.icon-03n {
+    background-image: url('../images/icons/03n.png');
+}
+
+.icon-04n {
+    background-image: url('../images/icons/04n.png');
+}
+
+.icon-09n {
+    background-image: url('../images/icons/09n.png');
+}
+
+.icon-10n {
+    background-image: url('../images/icons/10n.png');
+}
+
+.icon-11n {
+    background-image: url('../images/icons/11n.png');
+}
+
+.icon-12n {
+    background-image: url('../images/icons/12n.png');
+}
+
+.icon-13n {
+    background-image: url('../images/icons/13n.png');
+}
